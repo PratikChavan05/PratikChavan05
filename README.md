@@ -127,7 +127,6 @@ const pratik = {
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikChavan05&bg_color=1a1b27&color=628fdb&line=d65d0e&point=ffdd44&area=true&hide_border=true&v=2&cache_buster=1757791399"/>
 
 </div>
 
