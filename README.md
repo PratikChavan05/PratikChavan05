@@ -8,7 +8,7 @@
 
 </div>
 
----
+
 
 
 ## 🚀 About Me
@@ -138,7 +138,6 @@ const pratik = {
 
 
 
----
 
 <div align="center">
   
