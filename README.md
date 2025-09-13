@@ -52,6 +52,7 @@ I’m **Pratik Chavan**, a Computer Engineering undergraduate at **Pune Institut
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PratikChavan05&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikChavan05&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=PratikChavan05&theme=tokyonight&border_radius=6" height="180"/>
 </p>
 
 ---
