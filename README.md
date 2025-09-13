@@ -111,24 +111,24 @@ const pratik = {
 <div align="center">
 
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikChavan05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2&cache_buster=1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikChavan05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2&cache_buster=1757791332"/>
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikChavan05&layout=compact&langs_count=8&theme=tokyonight&v=2&cache_buster=2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikChavan05&layout=compact&langs_count=8&theme=tokyonight&v=2&cache_buster=1757791332"/>
 
 </div>
 
 <div align="center">
 
 <!-- Streak Stats -->
-<img height="180em" src="https://streak-stats.demolab.com?user=PratikChavan05&theme=tokyonight&border_radius=6&v=2&cache_buster=3"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=PratikChavan05&theme=tokyonight&border_radius=6&v=2&cache_buster=1757791332"/>
 
 </div>
 
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikChavan05&bg_color=1a1b27&color=628fdb&line=d65d0e&point=ffdd44&area=true&hide_border=true&v=2&cache_buster=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikChavan05&bg_color=1a1b27&color=628fdb&line=d65d0e&point=ffdd44&area=true&hide_border=true&v=2&cache_buster=1757791332"/>
 
 </div>
 
