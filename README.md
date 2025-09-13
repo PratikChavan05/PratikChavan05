@@ -1,10 +1,10 @@
 # Hi there, I'm Pratik Chavan! 👋
 
 <div align="center">
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="animated-coding" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+PICT;Full-Stack+Developer;AI%2FML+Explorer;Problem+Solver+%26+Innovation+Enthusiast)](https://git.io/typing-svg)
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="animated-coding" />
 
 </div>
 
