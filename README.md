@@ -111,7 +111,6 @@ const pratik = {
 <div align="center">
 
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikChavan05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2&cache_buster=1757791399"/>
 
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikChavan05&layout=compact&langs_count=8&theme=tokyonight&v=2&cache_buster=1757791399"/>
