@@ -7,11 +7,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PratikChavan05&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/PratikChavan05?style=flat-square&color=blue" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Nagpur%2C%20Maharashtra-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Pune%2C%20Maharashtra-success" />
+  <img src="https://img.shields.io/badge/Languages-English%2C%20Hindi%20%26%20Marathi-brightgreen" />
 </p>
 
 ---
@@ -23,18 +21,18 @@ I'm a passionate **Computer Engineering undergraduate** at **Pune Institute of C
 ```javascript
 const pratik = {
     pronouns: "He" | "Him",
-    location: "Nagpur, Maharashtra, India",
+    location: "Pune, Maharashtra, India",
     education: "Computer Engineering @ PICT",
     currentFocus: ["Full-Stack Development", "AI/ML Applications", "System Design"],
     askMeAbout: ["Web Dev", "AI/ML", "System Architecture", "Problem Solving"],
     technologies: {
-        frontEnd: ["React.js", "Next.js", "Tailwind CSS", "Material UI"],
+        frontEnd: ["React.js", "Next.js"],
         backEnd: ["Node.js", "Express.js", "Flask", "FastAPI"],
-        databases: ["MongoDB", "PostgreSQL", "Prisma ORM"],
-        ai_ml: ["LangChain", "HuggingFace", "FAISS", "Scikit-learn"],
-        languages: ["JavaScript", "Python", "C++", "Java", "SQL"]
+        databases: ["MongoDB", "PostgreSQL", "SQL", "Vector DBs", "Prisma ORM"],
+        ai_ml: ["LangChain", "HuggingFace", "FAISS", "TensorFlow"],
+        languages: ["JavaScript", "TypeScript", "Python", "C++", "Java", "SQL"]
     },
-    currentlyLearning: ["Microservices", "RabbitMQ", "Distributed Systems"],
+    currentlyLearning: ["Microservices", "Distributed Systems", "Vector Databases"],
     motto: "Code. Learn. Build. Repeat."
 };
 ```
@@ -67,6 +65,7 @@ const pratik = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -85,10 +84,12 @@ const pratik = {
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-FF6B6B?style=for-the-badge)
 
 ### 🤖 AI/ML & Tools
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
 
@@ -96,6 +97,8 @@ const pratik = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-FF6B2B?style=for-the-badge&logo=thunderclient&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 </div>
 
@@ -113,20 +116,6 @@ const pratik = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikChavan05&bg_color=1a1b27&color=628fdb&line=d65d0e&point=ffdd44&area=true&hide_border=true" />
 </div>
-
-## 🎯 Current Learning Path
-
-```mermaid
-graph TD
-    A[Full-Stack Mastery] --> B[Microservices Architecture]
-    A --> C[AI/ML Integration]
-    B --> D[RabbitMQ & Message Queues]
-    B --> E[Docker & Kubernetes]
-    C --> F[LLM Applications]
-    C --> G[Computer Vision]
-    D --> H[Distributed Systems]
-    E --> H
-```
 
 ## 🤝 Let's Connect & Collaborate
 
