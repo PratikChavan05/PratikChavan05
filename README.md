@@ -139,6 +139,8 @@ const pratik = {
 
 **Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
-<img src="https://raw.githubusercontent.com/PratikChavan05/PratikChavan05/output/snake.svg" alt="Snake animation" />
+<!-- SNAKE ANIMATION -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
+
