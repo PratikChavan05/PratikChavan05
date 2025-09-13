@@ -46,22 +46,13 @@ const pratik = {
 - 💬 **Ask Me About:** Full-stack development, DSA, or anything tech!
 - ⚡ **Fun Fact:** I debug with console.log() and I'm not ashamed! 😄
 
-## 🏆 Achievements & Highlights
 
-<div align="center">
-
-| 🎖️ Achievement | 🏅 Recognition | 📅 Year |
-|----------------|----------------|---------|
-| **1st Runner-Up + Best UI Award** | COEP Inspiron Hackathon | 2024 |
-| **TechFiesta Finalist** | Among 400+ National Teams | 2024 |
-
-</div>
 
 ## 🛠️ Technology Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -69,31 +60,29 @@ const pratik = {
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 Frontend Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
-### 🔧 Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Vector DBs](https://img.shields.io/badge/Vector_DBs-FF6B6B?style=for-the-badge)
 
-### 🤖 AI/ML & Tools
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
 
-### 🔨 Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -115,6 +104,17 @@ const pratik = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikChavan05&bg_color=1a1b27&color=628fdb&line=d65d0e&point=ffdd44&area=true&hide_border=true" />
+</div>
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+| 🎖️ Achievement | 🏅 Recognition | 📅 Year |
+|----------------|----------------|---------|
+| **1st Runner-Up + Best UI Award** | COEP Inspiron Hackathon | 2024 |
+| **TechFiesta Finalist** | Among 400+ National Teams | 2024 |
+
 </div>
 
 ## 🤝 Let's Connect & Collaborate
