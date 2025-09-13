@@ -2,23 +2,26 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # daily at midnight UTC
+    - cron: '0 0 * * *' # Daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   refresh-stats:
     runs-on: ubuntu-latest
     steps:
+      # Checkout repo using PAT to allow push
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # ✅ allows push back to repo
+          token: ${{ secrets.PAT_TOKEN }}
 
+      # Update cache_buster in README.md
       - name: Update cache-buster in README
         run: |
           TODAY=$(date +%s)
           sed -i -E "s/cache_buster=[0-9]+/cache_buster=$TODAY/g" README.md
 
+      # Commit and push changes
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
