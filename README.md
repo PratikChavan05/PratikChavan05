@@ -41,6 +41,19 @@ const pratik = {
 - 💬 **Ask Me About:** Full-stack development, DSA, or anything tech!
 - ⚡ **Fun Fact:** I debug with console.log() and I'm not ashamed! 😄
 
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratik%20Chavan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-chavan-09bb0b2a1)
+[![Gmail](https://img.shields.io/badge/Gmail-pratikpchavan75@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikpchavan75@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pratikchavan05-portfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikChavan05)
+
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
 
 
 ## 🛠️ Technology Arsenal
@@ -112,16 +125,7 @@ const pratik = {
 
 </div>
 
-## 🤝 Let's Connect & Collaborate
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratik%20Chavan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-chavan-09bb0b2a1)
-[![Gmail](https://img.shields.io/badge/Gmail-pratikpchavan75@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikpchavan75@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pratikchavan05-portfolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikChavan05)
-
-</div>
 
 ## 💭 Random Dev Quote
 
@@ -140,7 +144,6 @@ const pratik = {
 **Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
 <!-- SNAKE ANIMATION -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
 
