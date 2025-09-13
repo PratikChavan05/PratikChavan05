@@ -109,16 +109,27 @@ const pratik = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikChavan05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikChavan05&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikChavan05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1"/>
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikChavan05&layout=compact&langs_count=8&theme=tokyonight&v=1"/>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PratikChavan05&theme=tokyonight&border_radius=6" />
+
+<!-- Streak Stats -->
+<img height="180em" src="https://streak-stats.demolab.com?user=PratikChavan05&theme=tokyonight&border_radius=6&v=1"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikChavan05&bg_color=1a1b27&color=628fdb&line=d65d0e&point=ffdd44&area=true&hide_border=true" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikChavan05&bg_color=1a1b27&color=628fdb&line=d65d0e&point=ffdd44&area=true&hide_border=true&v=1"/>
+
 </div>
 
 ## 🏆 Achievements & Highlights
