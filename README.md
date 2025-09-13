@@ -131,26 +131,12 @@ const pratik = {
 </div>
 
 
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| 🎖️ Achievement | 🏅 Recognition | 📅 Year |
-|----------------|----------------|---------|
-| **1st Runner-Up + Best UI Award** | COEP Inspiron Hackathon | 2024 |
-| **TechFiesta Finalist** | Among 400+ National Teams | 2024 |
-
-</div>
 
 
 
 ## 💭 Random Dev Quote
 
-<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
