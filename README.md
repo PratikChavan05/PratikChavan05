@@ -10,10 +10,8 @@
 ---
 
 ## 🚀 About Me
-<picture>
-  <source srcset="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" onerror="this.style.display='none'">
-  <img align="right" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding animation" />
-</picture>
+<img align="right" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
 
 I'm a passionate **Computer Engineering undergraduate** at **Pune Institute of Computer Technology (PICT)**, driven by the art of transforming ideas into impactful digital solutions.
 
