@@ -1,9 +1,8 @@
 name: Update GitHub Stats
 
-# Run once a day at midnight UTC and allow manual trigger
 on:
   schedule:
-    - cron: '0 0 * * *'  # every day at midnight UTC
+    - cron: '0 0 * * *'  # daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -12,11 +11,12 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # ✅ allows push back to repo
 
       - name: Update cache-buster in README
         run: |
           TODAY=$(date +%s)
-          # Replace all cache_buster values in README.md with today's timestamp
           sed -i -E "s/cache_buster=[0-9]+/cache_buster=$TODAY/g" README.md
 
       - name: Commit and push changes
