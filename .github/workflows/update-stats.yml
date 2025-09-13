@@ -1,0 +1,28 @@
+name: Update GitHub Stats
+
+# Run once a day
+on:
+  schedule:
+    - cron: '0 0 * * *' # every day at midnight UTC
+  workflow_dispatch: # allows manual trigger
+
+jobs:
+  refresh-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update cache-buster in README
+        run: |
+          TODAY=$(date +%s)
+          # Replace all cache_buster values in README.md with today’s timestamp
+          sed -i '' -E "s/cache_buster=[0-9]+/cache_buster=$TODAY/g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update stats cache-buster"
+          git push
