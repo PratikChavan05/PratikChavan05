@@ -6,22 +6,19 @@
 
 ### 🌟 About Me  
 
-I’m **Pratik Chavan**, a Computer Engineering undergraduate at **Pune Institute of Computer Technology (PICT)** with a strong academic record (**CGPA: 9.71/10**).  
+I’m **Pratik Chavan**, a Computer Engineering undergraduate at **Pune Institute of Computer Technology (PICT)**.  
 
 💡 I’m passionate about designing and developing **end-to-end software solutions**—from responsive frontends to scalable backends, integrated with modern databases and APIs.  
 
-⚡ My interests extend into **AI/ML applications, cloud-native systems, and DevOps practices**, where I love learning how real-world products scale and perform.  
+⚡ My interests extend into **AI/ML applications** and **system design**, where I enjoy solving real-world challenges with efficient and scalable solutions.  
 
 📌 Some quick facts about me:  
-- 🔭 Exploring **AI-powered applications**, **Cloud Computing**, and **System Design**  
+- 🔭 Exploring **AI-powered applications**, **full-stack development**, and **system design**  
 - 🎯 Strong foundation in **DSA, OOP, and REST APIs**  
 - 🌱 Currently learning **microservices, RabbitMQ, and distributed architectures**  
 - 🏆 Hackathon Achievements:  
   - **1st Runner-Up + Best UI Award** at *COEP Inspiron Hackathon*  
   - **TechFiesta Finalist** among 400+ national-level teams  
-- 📈 Leadership Experience:  
-  - **Marketing Head @ PICTOREAL** – led outreach campaigns & managed budgets  
-  - **Event Coordinator** – organized college fests & career guidance events  
 
 ---
 
@@ -42,8 +39,8 @@ I’m **Pratik Chavan**, a Computer Engineering undergraduate at **Pune Institut
 **AI/ML & Tools:**  
 `LangChain` · `HuggingFace` · `FAISS` · `Scikit-learn`  
 
-**DevOps / Tools:**  
-`Docker` · `Kubernetes` · `Azure` · `AWS` · `Git` · `Postman`  
+**Other Tools:**  
+`Git` · `GitHub` · `Postman` · `VS Code`  
 
 ---
 
