@@ -6,11 +6,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Pune%2C%20Maharashtra-success" />
-  <img src="https://img.shields.io/badge/Languages-English%2C%20Hindi%20%26%20Marathi-brightgreen" />
-</p>
 
 ---
 
