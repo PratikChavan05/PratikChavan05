@@ -58,7 +58,7 @@ const pratik = {
 </picture>
 
 src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="GitHub contribution grid being eaten by pacman" />
-</div>
+
 </div>
 
 
