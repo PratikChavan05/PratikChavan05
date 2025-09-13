@@ -111,7 +111,7 @@ const pratik = {
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=PratikChavan05&count_private=true&show_icons=true&include_all_commits=true&custom_title=Total%20Commits" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikChavan05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1"/>
 
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikChavan05&layout=compact&langs_count=8&theme=tokyonight&v=1"/>
@@ -131,6 +131,7 @@ const pratik = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikChavan05&bg_color=1a1b27&color=628fdb&line=d65d0e&point=ffdd44&area=true&hide_border=true&v=1"/>
 
 </div>
+
 
 ## 🏆 Achievements & Highlights
 
