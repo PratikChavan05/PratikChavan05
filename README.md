@@ -1,59 +1,57 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Pratik Chavan</h1>
-<h3 align="center">Computer Engineering Student | MERN Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Computer Engineering Student @ PICT | Full-Stack Developer | AI/ML Explorer</h3>
 
 ---
 
-### 🚀 About Me  
-- 🎓 Pursuing **B.E. in Computer Engineering** at PICT, Pune  
-- 💻 Passionate about **Web Development (MERN)** and exploring **AI/ML**  
-- 🔭 Currently working on:  
-  - 📰 **AI-Powered Podcast Summarizer + Recommender** (Whisper, GPT, FAISS/Pinecone, MERN)  
-  - 🔄 **Skill Swap Platform** (MERN + Admin Dashboard + Skill Exchange system)  
-  - 📊 **Full-Stack LLM QnA Web App** (FastAPI + LangChain + Gemini + FAISS + React)  
-- 🌱 Learning **DevOps, Cloud (Azure, AWS, GCP), and Microservices with RabbitMQ**  
-- 🤝 Open to **collaborations, internships, and open-source contributions**  
-- ⚡ Fun fact: I love building real-world projects that simplify life 🚀  
+### 🌟 About Me  
+
+I’m **Pratik Chavan**, a Computer Engineering undergraduate at **Pune Institute of Computer Technology (PICT)** with a strong academic record (**CGPA: 9.71/10**).  
+
+💡 I’m passionate about designing and developing **end-to-end software solutions**—from responsive frontends to scalable backends, integrated with modern databases and APIs.  
+
+⚡ My interests extend into **AI/ML applications, cloud-native systems, and DevOps practices**, where I love learning how real-world products scale and perform.  
+
+📌 Some quick facts about me:  
+- 🔭 Exploring **AI-powered applications**, **Cloud Computing**, and **System Design**  
+- 🎯 Strong foundation in **DSA, OOP, and REST APIs**  
+- 🌱 Currently learning **microservices, RabbitMQ, and distributed architectures**  
+- 🏆 Hackathon Achievements:  
+  - **1st Runner-Up + Best UI Award** at *COEP Inspiron Hackathon*  
+  - **TechFiesta Finalist** among 400+ national-level teams  
+- 📈 Leadership Experience:  
+  - **Marketing Head @ PICTOREAL** – led outreach campaigns & managed budgets  
+  - **Event Coordinator** – organized college fests & career guidance events  
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Skills  
 
 **Languages:**  
-`C++` · `Python` · `JavaScript` · `SQL`  
+`C++` · `Python` · `Java` · `JavaScript` · `SQL`  
 
 **Frontend:**  
-`React` · `Next.js` · `HTML` · `CSS` · `TailwindCSS` · `Material UI`  
+`React.js` · `Next.js` · `Tailwind CSS` · `Material UI`  
 
 **Backend:**  
-`Node.js` · `Express.js` · `FastAPI` · `Flask`  
+`Node.js` · `Express.js` · `Flask` · `FastAPI`  
 
-**Databases & Vector DBs:**  
-`MongoDB` · `PostgreSQL` · `FAISS` · `Pinecone`  
+**Databases & ORMs:**  
+`MongoDB` · `PostgreSQL` · `Prisma ORM`  
 
 **AI/ML & Tools:**  
-`LangChain` · `OpenAI / Gemini APIs` · `HuggingFace` · `Whisper`  
+`LangChain` · `HuggingFace` · `FAISS` · `Scikit-learn`  
 
-**DevOps / Cloud:**  
-`Docker` · `Kubernetes` · `Azure` · `AWS` · `GCP` · `RabbitMQ`  
-
----
-
-### 📂 Featured Projects  
-
-🔹 **[MangaVault](#)** – Personal Manga & Manhwa Tracker with smart recommendations  
-🔹 **[AI Podcast Summarizer](#)** – Summarizes podcasts & recommends related ones (MERN + GPT + FAISS)  
-🔹 **[Skill Swap Platform](#)** – Users can list, request, and exchange skills; includes admin moderation  
-🔹 **[Full-Stack LLM QnA App](#)** – Upload CSVs and ask questions with vector search + LLM backend  
-🔹 **[Stock Tracker](#)** – React project to track stock prices with charts and real-time updates  
+**DevOps / Tools:**  
+`Docker` · `Kubernetes` · `Azure` · `AWS` · `Git` · `Postman`  
 
 ---
 
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik-chavan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-chavan&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PratikChavan05&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikChavan05&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -61,18 +59,20 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratik-chavan" target="_blank">
+  <a href="https://linkedin.com/in/pratik-chavan-09bb0b2a1" target="_blank">
     <img src="https://img.shields.io/badge/-Pratik%20Chavan-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:pratik.chavan@example.com">
-    <img src="https://img.shields.io/badge/-pratik.chavan@example.com-red?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <a href="mailto:pratikpchavan75@gmail.com">
+    <img src="https://img.shields.io/badge/-pratikpchavan75@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/pratik-chavan" target="_blank">
+  <a href="https://github.com/PratikChavan05" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://pratikchavan05-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ✨ *“Code. Learn. Build. Repeat.”* ✨
-
