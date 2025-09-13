@@ -56,7 +56,6 @@ const pratik = {
 |----------------|----------------|---------|
 | **1st Runner-Up + Best UI Award** | COEP Inspiron Hackathon | 2024 |
 | **TechFiesta Finalist** | Among 400+ National Teams | 2024 |
-| **Strong DSA Foundation** | Consistent Problem Solving | Ongoing |
 
 </div>
 
