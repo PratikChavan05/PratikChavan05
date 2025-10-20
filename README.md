@@ -53,7 +53,7 @@ const pratik = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratik%20Chavan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-chavan-09bb0b2a1)
 [![Gmail](https://img.shields.io/badge/Gmail-pratikpchavan75@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikpchavan75@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pratikchavan05-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pratikchavan.tech/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikChavan05)
 
 <picture>
